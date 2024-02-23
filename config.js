@@ -123,11 +123,11 @@ global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
 global.gt = "kaisa <3"
-global.yt = "https://www.instagram.com/nightraid.fem"
-global.yt2 = "https://www.instagram.com/nightraid.fem"
-global.ig = "https://www.instagram.com/nightraid.fem"
-global.md = "https://www.instagram.com/nightraid.fem
-global.fb = "https://www.instagram.com/nightraid.fem"
+global.yt = "https://www.instagram.com/gianeee25.ff"
+global.yt2 = "https://www.instagram.com/gianeee25.ff"
+global.ig = "https://www.instagram.com/gianeee25.ff"
+global.md = "https://www.instagram.com/gianeee25.ff"
+global.fb = "https://www.instagram.com/gianeee25.ff"
 
 global.nna = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //CANAL UPDATE
 global.nn2 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //UPDATE
